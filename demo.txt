@@ -1,5 +1,20 @@
 added line in deme
+added line in deme
+added line in deme
+added line in deme
+added line in deme
+added line in deme
+added line in deme
+added line in deme
 
 added updated line added
 
 added line in git 
+
+untracked  ---> sta
+
+not moved stage
+
+add >> ready for commit 
+
+commit
