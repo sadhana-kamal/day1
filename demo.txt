@@ -21,3 +21,6 @@ not moved stage
 add >> ready for commit 
 
 commit
+
+
+modified i local
